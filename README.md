@@ -1,9 +1,9 @@
 TimeIt
 ======
 
-A tiny python script that periodically runs a command and stores how long it
-took to execute, the exit code and the output in a format convenient for
-further processing in e.g. LibreOffice Calc.
+A tiny python script that periodically runs a command and stores the duration,
+exit code and output in a format convenient for further processing in e.g.
+LibreOffice Calc.
 
 Requires **Python v3+**.
 
